@@ -25,3 +25,8 @@ RNFs (Requisitos não-funcionais)
     []  Os dados da aplicação precisam estar persistidos em um banco PostgreSQL;
     []  Todas listas de dados precisam estar paginadas com 20 itens por página;
     [] O usuário deve ser identificado por um JWT (JSON Web Token);
+
+
+<!-- Subir o container do banco: docker compose up -d -->
+<!-- Parar o container do banco: docker compose stop -->
+<!-- Deletar o container do banco: docker compose down -->
